@@ -1,2 +1,4 @@
 Este é o exemplo de um ficherio de texto...
 
+
+Estou a fazer alterações ao ficherio
