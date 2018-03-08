@@ -1,1 +1,11 @@
 Este é o exermplo de um ficheiro de texto...
+
+
+ola
+
+
+Adeus
+
+BY
+
+
